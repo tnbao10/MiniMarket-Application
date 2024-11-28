@@ -1,5 +1,5 @@
 # [JAVA] MiniMarket-Application
-MiniMarket-application is a comprehensive platform designed to manage various aspects of your mini supermarket. It includes features for managing employees, customers, suppliers, inventory, and stock levels. Additionally, the application provides detailed reporting and analytics to help you track business performance.
+MiniMarket-application is a comprehensive platform designed to manage various aspects of your mini supermarket. It includes features for managing employees, customers, suppliers, inventory, selling and printing Bill
 The MiniMarket-Application has four roles: Admin, Manager, Stocker, and Salesman. Each role has different responsibilities, such as managing employees, inventory, customers, stock and sell product.
   - Admin can create new accounts and assign roles with specific permissions, such as Manager, Stocker, or Salesman.
   - Salesman can sell products and generate invoices.
@@ -40,9 +40,18 @@ The MiniMarket-Application has four roles: Admin, Manager, Stocker, and Salesman
 </p>
 
 <h4>3. Salesman</h4>
-![image](https://github.com/user-attachments/assets/1992ce60-4de8-4693-99b8-7f35606b842c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1992ce60-4de8-4693-99b8-7f35606b842c" width=800 ><br/>
+  <i>Sales and print Bill</i>
+</p>
 
+## Contact
 
+If you have any questions or suggestions, feel free to reach out to me via email at [tnbao1009@gmail.com](tnbao1009@gmail.com).  I’d love to hear from you!
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
 
