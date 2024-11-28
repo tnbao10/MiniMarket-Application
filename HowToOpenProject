@@ -1,0 +1,5 @@
+B1: Convert to JRE 16
+B2: Import Database and change Database Name in ConnectDB.java
+B3: SQL Server Configuration Manager -> Protocol for MSSQLServer -> TCP/IP (Enable) -> Ip Address -> IPALL -> TCP PORT: 1433
+B4: Install WindowBuilder in EclipseMarket
+B5: Edit pom.xml  
